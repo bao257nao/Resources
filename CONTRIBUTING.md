@@ -71,7 +71,7 @@ To contribute to the ODC repository, you must be a member of the ODC discord and
 
 9. Once you submit your PR, a ODC member will review your work. We may ask questions or request additional information.
 
-10. Once your PR is merged, your contributions will be publicly visible in the repository.  
+10. Once your PR is merged, your contributions will be publicly visible in the repository.   Hi!
 
 
 ## Thanks for helping us build a capture resistant future for Web3 ❤️
